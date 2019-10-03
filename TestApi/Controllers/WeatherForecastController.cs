@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-// Entrada 
+// Entrada Controller
 namespace TestApi.Controllers
 {
     [ApiController]
